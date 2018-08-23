@@ -18,9 +18,4 @@ public class UserTest {
         List list = iUserMapper.selectAll();
         System.out.println(list);
     }
-<<<<<<< HEAD
-    222
-=======
-    111
->>>>>>> 1e7cc4777577f8f9c12d4e39b9b9f12ca569c564
 }
