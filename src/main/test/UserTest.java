@@ -17,5 +17,6 @@ public class UserTest {
     public void test() {
         List list = iUserMapper.selectAll();
         System.out.println(list);
+        AAA
     }
 }
