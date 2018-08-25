@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88b52aad-3d0a-4668-88a5-30da62d58332" name="Default" comment="修改">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/UserTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="88b52aad-3d0a-4668-88a5-30da62d58332" name="Default" comment="修改" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -469,7 +466,7 @@
       <workItem from="1534493572904" duration="3437000" />
       <workItem from="1535022771241" duration="3640000" />
       <workItem from="1535073262791" duration="163000" />
-      <workItem from="1535177421993" duration="1886000" />
+      <workItem from="1535177421993" duration="2179000" />
     </task>
     <task id="LOCAL-00001" summary="修改">
       <created>1535024361064</created>
@@ -514,7 +511,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35899000" />
+    <option name="totallyTimeSpent" value="36192000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -527,7 +524,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
